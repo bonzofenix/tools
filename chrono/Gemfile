@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'safariwatir'
+gem 'watir-webdriver'
+gem 'watir'
+gem 'debugger'
+
